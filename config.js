@@ -17,8 +17,8 @@ var nodesStat =
 		['http://us-east.traaitt.com:24496'],
 		['http://us-west.traaitt.com:24496'],
 		['http://asia-southeast.traaitt.com:24496'],
-		['http://asia-east.traaittnode.com:24496'],
-		['http://asia-north.traaittnode.com:24496'],
-		['http://europe-west.traaittnode.com:24496'],
-		['https://europe-east.traaittnode.com:24496']
+		['http://asia-east.traaitt.com:24496'],
+		['http://asia-north.traaitt.com:24496'],
+		['http://europe-west.traaitt.com:24496'],
+		['https://europe-east.traaitt.com:24496']
     ];
