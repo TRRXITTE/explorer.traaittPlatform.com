@@ -10,10 +10,9 @@ var refreshDelay = 15000;
 // pools stats by MainCoins
 var poolsStat =
 	[
-		["TRRXITTE Inc., ETRX Main","https://traaittsupply.cash:8117/stats"]
+		["TRRXITTE Int., ETRX Main","https://traaittsupply.cash:8117/stats"]
     ];
 var nodesStat =
 	[
-		['http://us-west.traaitt.com:24496'],
-		['http://europe-west.traaitt.com:24496']
+		['http://europe.trrxitte.com:24496']
     ];

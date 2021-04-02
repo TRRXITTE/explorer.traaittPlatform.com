@@ -17,7 +17,7 @@ Block explorer for traaittPlatform CryptoNote based cryptocurrency based on the 
 ## Donate
 
 ```
-TCH: TCHcYag8GeAjELvfQZafXewWnPe5zUVPQCEVj444uBPJimCSVfT43Q4rCme6TVuxDPpuyUKs8q5PcJWf1w568HtcHUYyc75Gmh
+ETRX: iETRXwx1cXGUXdnyri3NWV35m3FzoECC16J2acW5DuWCccD641N9tPXP43W5sEXvkrD4X8iUmnwqf9F1hfjZpgCbF86wGW3Txzc3r
 ```
 ```
 BTC: 3GVrutx2mdn7Gr63oVL83htgLBfMzXHJfT

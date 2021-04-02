@@ -21,7 +21,7 @@ $array = json_decode($result, true);
 
 echo "<hr/>Price:";
 
-$json = '{"Error":null,"Tickers":[{"PairId": 350,"PairName":"BTC_TCH","Last": 0.000000000900000,"LowPrice": 0.000000000600000,"HighPrice": 0.000000001200000,"PercentChange": 28.5714,"BaseVolume": 0.3134481374000000000000000000,"QuoteVolume": 305358469.000000000000000, "VolumeInBtc": 0.3134481374000000000000000000,"VolumeInUsd": 3005.3964352991447331190000000}]}';
+$json = '{"Error":null,"Tickers":[{"PairId": 350,"PairName":"BTC_ETRX","Last": 0.000000000900000,"LowPrice": 0.000000000600000,"HighPrice": 0.000000001200000,"PercentChange": 28.5714,"BaseVolume": 0.3134481374000000000000000000,"QuoteVolume": 305358469.000000000000000, "VolumeInBtc": 0.3134481374000000000000000000,"VolumeInUsd": 3005.3964352991447331190000000}]}';
 
 $obj = json_decode($json);
 print $obj->{'Error'}; // 12345
